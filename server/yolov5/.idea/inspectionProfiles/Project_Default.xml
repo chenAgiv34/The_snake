@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="yael.Photos" />
+          <option value="cv2.face" />
+          <option value="pyKalmam.*" />
+          <option value="rospy" />
+          <option value="src.main.geometry_msgs" />
+          <option value="src.main.sensor_msgs" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

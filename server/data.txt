@@ -1,0 +1,10 @@
+progress=0.5
+Minimum distance for camera detection=10
+Angle range of the middle of the image=30
+object width=0.2 - 0.7
+sensor size=40
+The focal length of the lens=53.4
+Image size=800*800
+time sleep yolo=10
+The width of the robot = 0.2
+Face detection allowed distance threshold = 105

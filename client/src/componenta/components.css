@@ -1,0 +1,30 @@
+/* .main{
+    text-align: center;
+    width: 2000px;
+    height: 1000px;
+}
+body{
+    text-align: center;
+}
+#home{
+    text-align: center;
+    width: 400px;
+}
+h6{
+    font-size: xx-large;
+}
+#sand{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+} */
+#text{
+    align-items: center;
+    text-align: center;
+    /* border: solid, black, 2px; */
+    /* background-color: aqua; */
+}
